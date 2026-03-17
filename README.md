@@ -1,4 +1,4 @@
-<h2 align="center">Hello! 👋 </h2>
+<h2 align="center">Hello, I'm Lukas Smeds! 👋 </h2>
 
 <h3 align = "center">I am an up-and-coming programmer from Sweden! <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" width="20"> </h3>
 
