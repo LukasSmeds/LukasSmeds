@@ -25,7 +25,7 @@
 -->
 <p align="center">
   <img height="200" src="./profile/stats.svg" />
-  <img height="200" src="./profile/top-langs.svg" />
+  <img height="200" src="./profile/top-langs.svg" /> 
 </p>
 <!--
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
