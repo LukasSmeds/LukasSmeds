@@ -1,6 +1,6 @@
 <h2 align="center">Hello! 👋 </h2>
 
-<h3 align = "center">A up-and-coming programmer from Sweden! 🇸🇪</h3>
+<h3 align = "center">I am an up-and-coming programmer from 🇸🇪  </h3>
 
 ## I am currently learning:
   - **Typescript, Javascript** with **React, Vite, Python FastAPI & SQLALchemey**
