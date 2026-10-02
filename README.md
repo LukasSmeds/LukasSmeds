@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Lukas Smeds! 👋 </h2>
 
-<h3 align = "center">I am an up-and-coming programmer from Sweden! <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" width="20"> </h3>
+<h3 align = "center">I am a programmer from Sweden! <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" width="20"> </h3>
 
 ## I am currently learning:
   - **Typescript, Javascript** with **React, Vite, Python FastAPI & SQLALchemey**
@@ -8,6 +8,7 @@
   - Cybersecurity & Computer Communication
  
 ## I am looking for internship opportunities!
+  - I am currently studying my 3rd year for a Master of Science in Engineering, Computer Science and Engineering.
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
